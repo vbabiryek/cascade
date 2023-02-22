@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cascade</string>
+    <string name="submit">SUBMIT</string>
+    <string name="input">Input</string>
+    <string name="enter_funds">Enter your funds in decimal</string>
+</resources>
